@@ -1,6 +1,6 @@
 Advanced Android Sample App
 ===================================
-It is an application for the android wear which synchronizes weather information from OpenWeatherMap on Android Phones and Tablets and updates them to the wear device.<br/>
+It is an android wear application which synchronizes weather information from OpenWeatherMap on Android Phones and Tablets and updates them to the wear device.<br/>
 Supports both square and round face watch, displays day’s high, low temperature, shows a graphic which portrays days weather  
 
 Pre-requisites
